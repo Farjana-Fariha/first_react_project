@@ -1,0 +1,9 @@
+
+.tagline {
+    padding: 30px 0;
+  }
+.tagline span {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 22px;
+  }

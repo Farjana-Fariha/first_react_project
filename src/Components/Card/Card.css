@@ -1,0 +1,21 @@
+.subscription-card{
+    padding: 15px 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.subscripted{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 30px;
+}
+.subscripted p{
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+.subscripted img{
+    width: 50px;
+    border-radius: 15px;
+}
